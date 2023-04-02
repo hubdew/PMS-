@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hubdew/user.react/static/css/main.d767c8ab.css",
-    "main.js": "/hubdew/user.react/static/js/main.df7a9450.js",
-    "static/js/787.471344ea.chunk.js": "/hubdew/user.react/static/js/787.471344ea.chunk.js",
-    "index.html": "/hubdew/user.react/index.html",
-    "main.d767c8ab.css.map": "/hubdew/user.react/static/css/main.d767c8ab.css.map",
-    "main.df7a9450.js.map": "/hubdew/user.react/static/js/main.df7a9450.js.map",
-    "787.471344ea.chunk.js.map": "/hubdew/user.react/static/js/787.471344ea.chunk.js.map"
+    "main.css": "/hubdew/PMS-/static/css/main.d767c8ab.css",
+    "main.js": "/hubdew/PMS-/static/js/main.0a22877b.js",
+    "static/js/787.471344ea.chunk.js": "/hubdew/PMS-/static/js/787.471344ea.chunk.js",
+    "index.html": "/hubdew/PMS-/index.html",
+    "main.d767c8ab.css.map": "/hubdew/PMS-/static/css/main.d767c8ab.css.map",
+    "main.0a22877b.js.map": "/hubdew/PMS-/static/js/main.0a22877b.js.map",
+    "787.471344ea.chunk.js.map": "/hubdew/PMS-/static/js/787.471344ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d767c8ab.css",
-    "static/js/main.df7a9450.js"
+    "static/js/main.0a22877b.js"
   ]
 }
