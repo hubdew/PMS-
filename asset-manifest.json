@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/PMS-/static/css/main.d767c8ab.css",
-    "main.js": "/github.io/PMS-/static/js/main.70143baf.js",
-    "static/js/787.471344ea.chunk.js": "/github.io/PMS-/static/js/787.471344ea.chunk.js",
-    "index.html": "/github.io/PMS-/index.html",
-    "main.d767c8ab.css.map": "/github.io/PMS-/static/css/main.d767c8ab.css.map",
-    "main.70143baf.js.map": "/github.io/PMS-/static/js/main.70143baf.js.map",
-    "787.471344ea.chunk.js.map": "/github.io/PMS-/static/js/787.471344ea.chunk.js.map"
+    "main.css": "/PMS-/static/css/main.d767c8ab.css",
+    "main.js": "/PMS-/static/js/main.4d5e27cf.js",
+    "static/js/787.471344ea.chunk.js": "/PMS-/static/js/787.471344ea.chunk.js",
+    "index.html": "/PMS-/index.html",
+    "main.d767c8ab.css.map": "/PMS-/static/css/main.d767c8ab.css.map",
+    "main.4d5e27cf.js.map": "/PMS-/static/js/main.4d5e27cf.js.map",
+    "787.471344ea.chunk.js.map": "/PMS-/static/js/787.471344ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d767c8ab.css",
-    "static/js/main.70143baf.js"
+    "static/js/main.4d5e27cf.js"
   ]
 }
