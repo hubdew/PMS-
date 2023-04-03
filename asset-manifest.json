@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hubdew/PMS-/static/css/main.d767c8ab.css",
-    "main.js": "/hubdew/PMS-/static/js/main.0a22877b.js",
-    "static/js/787.471344ea.chunk.js": "/hubdew/PMS-/static/js/787.471344ea.chunk.js",
-    "index.html": "/hubdew/PMS-/index.html",
-    "main.d767c8ab.css.map": "/hubdew/PMS-/static/css/main.d767c8ab.css.map",
-    "main.0a22877b.js.map": "/hubdew/PMS-/static/js/main.0a22877b.js.map",
-    "787.471344ea.chunk.js.map": "/hubdew/PMS-/static/js/787.471344ea.chunk.js.map"
+    "main.css": "/github.io/PMS-/static/css/main.d767c8ab.css",
+    "main.js": "/github.io/PMS-/static/js/main.70143baf.js",
+    "static/js/787.471344ea.chunk.js": "/github.io/PMS-/static/js/787.471344ea.chunk.js",
+    "index.html": "/github.io/PMS-/index.html",
+    "main.d767c8ab.css.map": "/github.io/PMS-/static/css/main.d767c8ab.css.map",
+    "main.70143baf.js.map": "/github.io/PMS-/static/js/main.70143baf.js.map",
+    "787.471344ea.chunk.js.map": "/github.io/PMS-/static/js/787.471344ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d767c8ab.css",
-    "static/js/main.0a22877b.js"
+    "static/js/main.70143baf.js"
   ]
 }
